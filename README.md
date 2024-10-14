@@ -1,6 +1,6 @@
 # Credit Scoring App
 
 
-# Project Demo Video
+## Project Demo Video
 https://github.com/user-attachments/assets/4430cbc5-a6d5-41f4-a488-938c38e88632
 
