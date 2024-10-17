@@ -1,10 +1,10 @@
 # Credit Scoring App
 
-Finance Merdeka merupakan sebuah perusahaan teknologi baru yang bergerak di bidang keuangan. Ia menyediakan berbagai solusi keuangan berbasis teknologi untuk memberdayakan individu dan pelaku usaha. Walaupun menyediakan berbagai solusi keuangan berbasis teknologi, terdapat beberapa tahapan dalam layanan tersebut yang dilakukan secara manual. Salah satu tahapan tersebut ialah pemeriksaan risiko kredit ketika individu dan pelaku usaha mengajukan pinjaman. Tahapan ini sepenuhnya dilakukan secara manual oleh tim Risk Analytics Analyst. Tahapan ini tentunya memakan banyak waktu dan sangat tidak efisien. Oleh karena itu, Finance Merdeka berupaya untuk mengoptimalkan tahapan tersebut.
+Finance Merdeka is an emerging technology company specializing in finance. It provides various technology-based financial solutions to empower individuals and businesses. Despite providing various technology-based financial solutions, there are several stages in the service that are carried out manually. One such stage is the credit risk check when individuals and businesses apply for loans. This is done entirely manually by the Risk Analytics Analyst team. This stage certainly takes a lot of time and is very inefficient. Therefore, Finance Merdeka seeks to optimize this stage.
 
-Project ini dilakukan dengan tujuan untuk memanfaatkan data tersebut guna mengoptimalkan proses pemeriksaan risiko kredit ketika pengajuan pinjaman berlangsung dengan mengembangkan sebuah sistem berbasis machine learning untuk memprediksi dan mengoptimalkan proses pemeriksaan risiko kredit ketika pengajuan pinjaman berlangsung. Berdasarkan data yang  dimiliki, target keluaran yang diharapkan adalah mengelompokkan pelanggan yang mengajukan pinjaman ke dalam tiga kategori yaitu Good, Standard, dan Poor.
+This project is carried out with the aim of utilizing the data to optimize the credit risk examination process when a loan application takes place by developing a machine learning-based system to predict and optimize the credit risk examination process when a loan application takes place. Based on the data owned, the expected output target is to group customers who apply for loans into three categories, namely Good, Standard, and Poor.
 
-Pada proses pengembangannya, akan dilakukan eksperimen dengan berbagai pendekatan atau algoritma machine learning serta membandingkannya untuk memperoleh model dengan performa terbaik.
+In the development process, we will experiment with various machine learning approaches or algorithms and compare them to obtain the best performing model.
 
 
 ## Project Demo Video
